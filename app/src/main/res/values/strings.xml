@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Java Programming</string>
+    <string name="ToDo">todo</string>
+    <string name="leftBtn">Tutorial</string>
+    <string name="rightBtn">Example</string>
+    <string name="firstStep">First Step</string>
+    <string name="oop">OOP</string>
+    <string name="basic">Basic Language Constructor</string>
+    <string name="misunderstood">Misunderstood</string>
+    <string name="memory">Memory Management</string>
+    <string name="inher">Inheritance</string>
+    <string name="late">Better Late Then Never</string>
+    <string name="exception">Exception Handling</string>
+    <string name="conditional">Conditional Loop</string>
+    <string name="Advance">Advance Stuff!</string>
+</resources>
